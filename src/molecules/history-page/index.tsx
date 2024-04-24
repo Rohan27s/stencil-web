@@ -99,3 +99,4 @@ const HistoryPage: FC = () => {
 }
 
 export default HistoryPage
+

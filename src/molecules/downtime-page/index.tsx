@@ -94,3 +94,4 @@ const DowntimePage: React.FC = () => {
 };
 
 export default DowntimePage;
+

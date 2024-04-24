@@ -512,3 +512,4 @@ const MessageItem: FC<MessageItemPropType> = ({
 }
 
 export default MessageItem
+
